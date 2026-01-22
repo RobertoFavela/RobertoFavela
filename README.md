@@ -1,14 +1,29 @@
-<h1 align="center">Hi 👋, I'm Roberto Favela</h1>
-<h3 align="center">A Mexico based Software Engineer</h3>
+# ¡Hola! Soy Roberto Favela 👋
 
-- 🔭 I’m currently working on **Grupo Rio Yaqui**
+### 🚀 Software Engineer | Full Stack Developer
+Actualmente trabajando en **Automatización de Procesos** y **Optimización de Datos** dentro del sector financiero. Desarrollo soluciones integrales que combinan la robustez del entorno corporativo con la flexibilidad de las tecnologías web modernas.
 
-- 📫 How to reach me **robertofavela14@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/roberto favela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roberto favela" height="30" width="40" /></a>
-</p>
+### 💻 Lo que hago
+* **Sector Financiero:** Automatización de flujos críticos y procesamiento de datos masivos utilizando **Java** y **ABAP**/**SQL**.
+* **Desarrollo Web Full Stack:** Creación de aplicaciones dinámicas utilizando el stack **MERN** (MongoDB, Express, React, Node.js).
+* **Arquitectura de Datos:** Diseño y optimización de bases de datos tanto relacionales (**SQL**) como no relacionales (**MongoDB/Mongoose**).
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+### 🛠️ Mi Stack Tecnológico
+
+| Área | Tecnologías |
+| :--- | :--- |
+| **Backend & Automación** | ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
+| **Bases de Datos** | ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?logo=mongoose&logoColor=white) |
+
+---
+
+### 📊 Estadísticas de GitHub
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=robertofavela&layout=compact&theme=nord)
+
+---
+*"Arch btw"*
