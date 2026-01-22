@@ -14,8 +14,8 @@ Soy un apasionado de la tecnología enfocado en crear soluciones eficientes y es
 
 ### 📊 Estadísticas de GitHub
 
-![Stats de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)
+![Stats de GitHub](https://github-readme-stats.vercel.app/api?username=robertofavela&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=robertofavela&layout=compact&theme=radical)
 
 ---
 
